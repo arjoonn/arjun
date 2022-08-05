@@ -9,7 +9,7 @@ void main()
  for(i=1;i<=limit;i++)
   scanf("%d",&a[i]);
  printf("\n");
- for(i=0;i<=limit;i++)
+ for(i=1;i<=limit;i++)
 {
         min=i;
  for(j=i+1;j<=limit;j++)
